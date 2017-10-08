@@ -1,2 +1,2 @@
 line 1:	Git is a distrubuted version control system
-line 2: Git is free software.
+line 2: Git is free software distrubuted under the GPL.
